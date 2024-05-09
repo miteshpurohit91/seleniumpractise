@@ -16,6 +16,18 @@ public class lab12 {
         System.out.println(div);
         double result = a%b;
         System.out.println(result);
+        // Unary operation
+        int a1 = +10;
+        int a2 = -10;
+        System.out.println(a1);
+        System.out.println(a2);
+        // Compounding assignment operator i.e +=,-=,/=,*=
+        int b1=90;
+                b1 -=89; // b1= b1-89
+        System.out.println(b1);
+
+        // String concatenation operators
+
 
     }
 }
